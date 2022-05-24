@@ -1,0 +1,8 @@
+dpcse meilleur que le trans-encoder qui lui aussi est meilleur que simcse
+https://github.com/yjiangcm/dcpcse
+
+Unsupervised : DPCSE BERT LARGE pour le non supervisé est le meilleur algo par rapport a tous les autre et meme le DPCSE roberta base
+
+Supervised   : DPCSE ROBERTA LARGE est le meilleur de tous les supervisés
+
+

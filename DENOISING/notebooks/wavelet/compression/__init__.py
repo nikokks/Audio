@@ -1,0 +1,3 @@
+from .compressor_magnitude import CompressorMagnitude
+from .compressor_peak import CompressorPeak
+from .visu_shrink_compressor import VisuShrinkCompressor
